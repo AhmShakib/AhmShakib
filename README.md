@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Sakib 👋
 
-<!--
-**AhmShakib/AhmShakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematician | 📊 Aspiring Data Scientist | 🧠 ML Enthusiast  
+📍 Based in Bangladesh  
+🔍 Exploring Python, Machine Learning, Deep Learning & Visualization  
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- Python (NumPy, Pandas, Matplotlib, Scikit-learn)
+- Pure and Applied Mathematics and Statistics
+- Machine Learning,Deep Learning
+- Power BI & Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects I'm Working On
+- 🌩️ Weather Event Prediction (Storm, Rainfall, Heatwave)
+- 🌱 Soil Temperature Forecasting
+- 📈 Machine Learning and Deep Learning Algorithms
+
+### 🧠 Learning
+- Kaggle Notebooks & Courses
+- YouTube Tutorials (Krish Naik,CampusX, StatQuest, etc.)
+- CS50 Inroduction to python programming
+- Diploma in Power BI from Alison
+- Research in Meteorological ML
+
+### 📫 How to Reach Me
+[LinkedIn](https://linkedin.com/in/sakib-ahmmed) • [Kaggle](https://kaggle.com/mdsakibahmmed) • Email: sakibb.ahmmed@gmail.com
