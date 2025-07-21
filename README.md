@@ -18,9 +18,9 @@
 ### 🧠 Learning
 - Kaggle Notebooks & Courses
 - YouTube Tutorials (Krish Naik,CampusX, StatQuest, etc.)
-- CS50 Inroduction to python programming
+- CS50 Inroduction to Python Programming
 - Diploma in Power BI from Alison
-- Research in Meteorological ML
+- Research in Meteorological Data Using ML and DL
 
 ### 📫 How to Reach Me
 [LinkedIn](https://linkedin.com/in/sakib-ahmmed) • [Kaggle](https://kaggle.com/mdsakibahmmed) • Email: sakibb.ahmmed@gmail.com
