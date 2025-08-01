@@ -5,7 +5,7 @@
 🔍 Exploring Python, Machine Learning, Deep Learning & Visualization  
 
 ### 🚀 Skills
-- Python (NumPy, Pandas, Matplotlib, Seaborn, Tensorflow Scikit-learn)
+- Python (NumPy, Pandas, Matplotlib, Seaborn, Tensorflow and Scikit-learn)
 - Pure and Applied Mathematics and Statistics
 - Machine Learning,Deep Learning
 - Power BI & Data Visualization
