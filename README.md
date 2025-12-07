@@ -10,11 +10,7 @@
 - Machine Learning,Deep Learning
 - Power BI & Data Visualization
 
-### 📂 Projects I'm Working On
-- 🌩️ Weather Event Prediction (Storm, Rainfall, Heatwave)
-- 🌱 Soil Temperature Forecasting
-- 🏠 House Price Prediction
-- 📈 Machine Learning and Deep Learning Algorithms
+### 📂 Multiple Projects I'm Working On
 
 ### 🧠 Learning
 - Kaggle Notebooks & Courses
